@@ -39,3 +39,6 @@ A fitness/workout app written in Flutter.
   - Start locks the app into the Active View and keeps the screen on. Also has a toggle-able timer/clock
   - Possibly voice readouts?
 - Create View
+
+
+
